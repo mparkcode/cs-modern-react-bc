@@ -1,0 +1,15 @@
+.Pokedex-title {
+  color: grey;
+}
+
+.Pokedex-winner{
+  font-size: 30px;
+  font-weight: 400;
+  color: green;
+}
+
+.Pokedex-loser{
+  font-size: 30px;
+  font-weight: 400;
+  color: red;
+}

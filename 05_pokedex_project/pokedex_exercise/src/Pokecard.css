@@ -1,0 +1,16 @@
+.Poke-card {
+  display: inline-block;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px;
+  width: 20vw;
+  background-color: lightgray;
+}
+
+.Poke-img {
+  width: 50%;
+}
+
+.Poke-title {
+  color: darkblue;
+}
