@@ -1,0 +1,9 @@
+.Hand {
+    margin: 20px 0 40px 0;
+}
+
+.Hand-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
