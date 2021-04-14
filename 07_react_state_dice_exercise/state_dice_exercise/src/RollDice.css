@@ -1,0 +1,15 @@
+.DiceDisplay {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 100px;
+}
+
+button {
+    background-color: #7b6cd3;
+    color: #fff;
+    padding: 20px 40px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
